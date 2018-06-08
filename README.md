@@ -3,7 +3,7 @@ software test frameworks in C/C++
 
 ## Framework1 gooletest
 
-Goole Test is a framework maintained by Google.
+Goole Test is a powerful framework maintained by Google, I select key files in the framework and it's enough to every day's unit test.
 
 More information please see the homepage on Github---[GooleTest](https://github.com/google/googletest.git)
 
