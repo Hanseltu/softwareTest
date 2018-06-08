@@ -1,5 +1,5 @@
 # softwareTest
-software test framework in C/C++
+software test frameworks in C/C++
 
 ## Framework1 gooletest
 
